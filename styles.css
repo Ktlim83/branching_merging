@@ -1,14 +1,15 @@
 .container {
-    color: black;
+    background-color: black;
 }
 
 h1, p {
     color: white;
+    width: 400px;
 }
 
 img {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     display: inline-block;
     border: 5px solid grey
 
